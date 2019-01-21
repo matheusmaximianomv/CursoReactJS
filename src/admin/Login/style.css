@@ -1,0 +1,12 @@
+.login {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.login h1{
+    text-align: center;
+}
+
+.login form {
+    margin: 5px auto;
+}
